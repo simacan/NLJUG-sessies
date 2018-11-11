@@ -1,0 +1,6 @@
+# sbt specific
+target/
+
+# IntelliJ specific
+.idea
+*.iml
