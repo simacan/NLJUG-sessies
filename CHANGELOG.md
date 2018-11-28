@@ -6,3 +6,4 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - First version
 - Pizza Scala 29-11-2018 module with the future mapping exercise and the N-queens exercise
+- Added .pdf with slides to the 29-11-2018 module
